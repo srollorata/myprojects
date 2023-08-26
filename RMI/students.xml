@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<studentList>
+    <student>
+        <id value = "1"/>
+        <name value="Mikko Malcampo"/>
+        <age value = "23"/>
+        <address value = "unknown"/>
+        <contact value = "09123456"/>
+    </student>
+    <student>
+        <id value = "2"/>
+        <name value="RZ Tabaranza"/>
+        <age value = "30"/>
+        <address value = "unknown"/>
+        <contact value = "09123789"/>
+    </student>
+    <student>
+        <id value = "3"/>
+        <name value = "Selwyn Rollorata"/>
+        <age value = "40"/>
+        <address value = "basag"/>
+        <contact value = "09123456"/>
+    </student>
+    <student>
+        <id value = "4"/>
+        <name value = "Richard Doe"/>
+        <age value = "50"/>
+        <address value = "unknown"/>
+        <contact value = "63890465"/>
+    </student>
+    <student>
+        <id value = "5"/>
+        <name value = "Michael Doe"/>
+        <age value = "10"/>
+        <address value = "unknown"/>
+        <contact value = "09999999"/>
+    </student>
+</studentList>
+
+
