@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Downloads\\Compressed\\mysql-connector-java-8.0.18.jar\\mysql-connector-java-8.0.18.jar"
+    ],
+    "liveshare.allowGuestDebugControl": true
+}
